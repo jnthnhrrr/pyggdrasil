@@ -19,7 +19,7 @@ Issues = 'https://github.com/jnthnhrrr/pyggdrasil-hemline/issues'
 
 [tool.poetry]
 name = "pyggdrasil"
-version = "0.1.0"
+version = "0.1.1"
 description = "A tiny library to print trees"
 authors = ["Jonathan Herrera <jonathan.herrera@posteo.de>"]
 readme = "README.md"
